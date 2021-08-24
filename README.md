@@ -1,4 +1,4 @@
-## Converet Livewire Project into bootstrap with Jetstream in Laravel
+## Converet Livewire Project into Bootstrap with Jetstream in Laravel
 
 
 
